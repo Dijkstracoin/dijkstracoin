@@ -9,8 +9,11 @@ Combining POW + POS technologies, and utilising the method of acquired stake in 
 Dijkstra algorithm, with its efficient calculating ability, expedites P2P transactions, and achieves instant money transfer. That said, it brings more benefits when it’s for the commercial use.
 
 Total coins:                       840 million
+
 PoW Algorithm:                  DIJKSTRA
+
                                 CPU/GPU mining
+                                
 PoW Total blocks:              60,000
 
 PoW Max coins:    
