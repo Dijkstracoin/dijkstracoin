@@ -12,9 +12,13 @@ Total coins:                       840 million
 PoW Algorithm:                  DIJKSTRA
                                 CPU/GPU mining
 PoW Total blocks:              60,000
-PoW Max coins:                 
+
+PoW Max coins:    
+
 0-30,000block   8,000DKC
+
 30,000-50,000block   5,000DKC
+
 50,000-60,000block   3,000DKC
                               
 Block Target:                     30 seconds
