@@ -19,6 +19,7 @@ Block Target:                     30 seconds
 Difficulty Retar2etting:     10  Every blo5PoW ends 21 days from launch.
 PoW + PoS
 PoS variable interests: 
+
 1 year: 30%  
 2 year: 20%  
 3 year: 10%  
